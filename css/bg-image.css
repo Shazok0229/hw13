@@ -1,0 +1,7 @@
+.bg-image {
+    height: 100vh;
+    background-color: black;
+    background-image: url(../img/n19.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
